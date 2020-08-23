@@ -7,7 +7,7 @@
     "pattern": [
         "###",
         "SES",
-        "WWW"
+        "WWW"\n
     ],
     "key": {
         "#": {
